@@ -5,8 +5,8 @@
 
 @media (max-width: 40rem) {
   .photo:nth-child(2) {
-    grid-column: intial;
-    grid-row: span initial;
+    grid-column: initial;
+    grid-row: initial;
   }
 }
 
