@@ -12,13 +12,14 @@
 .textarea {
   display: block;
   width: 100%;
-  border: none;
   font-size: 1rem;
   font-family: var(--type-first);
   resize: none;
   border: 1px solid #eee;
-  padding-right: 0.5rem;
-  transition: 0, 2s;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  background: #eee;
+  transition: 0.25s;
 }
 
 .textarea:focus,
